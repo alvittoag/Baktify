@@ -1,3 +1,3 @@
 ## Bakity - Music Marketplace
 
-`Technologi : PHP, Laravel, Tailwind`
+`Technologi : JavaScript, PHP, Laravel, Tailwind`
